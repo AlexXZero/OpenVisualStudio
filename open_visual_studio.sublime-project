@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns":[
+				"build",
+				"content",
+				"log",
+				"man",
+				"unused",
+			],
+			"file_exclude_patterns":[
+				"*.o",
+				"*.a",
+				"*.d",
+				"*.so",
+				"*.elf",
+				"*.odt",
+				"*.cbp",
+				"*.depend",
+				"*.layout",
+				"*.sublime-workspace"
+			]
+		}
+	],
+	"settings" :
+	[
+		{
+			"rulers": [ 80 ],
+			"highlight_line": true,
+			"translate_tabs_to_spaces": true,
+			"trim_trailing_white_space_on_save": true,
+			"ensure_newline_at_eof_on_save": true
+		}
+	],
+}

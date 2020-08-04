@@ -1,0 +1,9 @@
+*.a
+*.o
+*.d
+*.elf
+*.so
+*.sublime-workspace
+build
+unused
+log
